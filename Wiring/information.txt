@@ -1,0 +1,7 @@
+Wiring:
+
+Needed to connect to to 5V DC power source for example iPhone charger.
+The button can be glued on to the top as seen in the picture. This button toggles the modes of the lamp.
+The .ino file needs to be uploaded to an Arduino compatible board. Tutorials can be found on the internet. You need to adjust the PIXEL_COUNT variable in the .ino file to fit the number of LEDs on your strip. You also need to install the Adafruit_NeoPixel library. This can be done with the library manager in the Arduino IDE.
+The soldered Arduino and wiring can be housed in the lamp. Solder skills required. Use shrinking tube to avoid short circuits.
+

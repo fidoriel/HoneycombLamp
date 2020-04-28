@@ -15,4 +15,6 @@ White PLA
 good retraction settings needed
 Pay attention that the inner shell has only one perimeter. Otherwise it will not be translucent.
 
-Wiring information can be found in the .ino file.
+Wiring information can be found in the .ino file and in the Wiring folder.
+
+.stl files are licensed under the Creative Commons Attribution 4.0 International License.
