@@ -17,4 +17,4 @@ Pay attention that the inner shell has only one perimeter. Otherwise it will not
 
 Wiring information can be found in the .ino file and in the Wiring folder.
 
-.stl files are licensed under the Creative Commons Attribution 4.0 International License.
+.stl files are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
